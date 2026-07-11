@@ -23,3 +23,5 @@ The objective was to calculate key performance indicators (KPIs), analyze sales 
 - Data Analysis
 - SQL Querying
 - Dashboard Design
+
+<img width="5107" height="2607" alt="Dashboard photo" src="https://github.com/user-attachments/assets/89d59406-c9df-4ed0-825e-4dffe25d736a" />
